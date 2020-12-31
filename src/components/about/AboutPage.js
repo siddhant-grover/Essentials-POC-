@@ -7,7 +7,7 @@ const AboutPage = () => (
       This app uses React, Redux, React Router, and many other helpful
       libraries.
       </p>
-      <a href="" style={{textDecoration:"none"}}>Access this project on Github</a>
+      <a href="https://github.com/siddhant-grover/Essentials-POC-" style={{textDecoration:"none"}}>Access this project on Github</a>
   </div>
 );
 
